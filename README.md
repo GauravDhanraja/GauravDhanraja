@@ -1,5 +1,4 @@
 <h1 align="center">Hello!, I'm Gaurav Dhanraja</h1>
-<h3 align="center">A passionate AIML developer from India</h3>
 
 - 🌱 I’m currently learning learning BTech in AIML
 
