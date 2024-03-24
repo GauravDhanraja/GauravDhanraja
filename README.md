@@ -1,7 +1,7 @@
 <h1 align="center">Hello!, I'm Gaurav Dhanraja</h1>
 <h3 align="center">A passionate AIML developer from India</h3>
 
-- 🌱 I’m currently learning **django/flask, python libraries for mechine learning, R programming language**
+- 🌱 I’m currently learning learning BTech in AIML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
