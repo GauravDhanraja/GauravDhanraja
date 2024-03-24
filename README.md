@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm Gaurav Dhanraja</h1>
 
-- 🌱 I’m currently learning learning BTech in AIML
+- 🌱 I’m currently learning BTech in AIML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
