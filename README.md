@@ -1,14 +1,15 @@
 <h1 align="center">Hello!, I'm Gaurav Dhanraja</h1>
 
 - 🌱 I’m currently learning BTech in AIML
+- 📫 How to reach me **gauravdhanraja88@proton.me**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-dhanraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-dhanraja" height="30" width="40" /></a>
 <a href="https://instagram.com/gaurav.dhanraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav.dhanraja" height="30" width="40" /></a>
 </p>
 
-<p align="left">Languages</p>
+<h4 align="left">Languages</h4>
 
 ###
 
