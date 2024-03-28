@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I use Linux btw</p>
+<p align="left">Linux btw</p>
 
 ###
 
