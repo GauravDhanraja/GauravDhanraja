@@ -1,7 +1,6 @@
-<h1 align="center">Hello!, I'm Gaurav Dhanraja</h1>
+<h1>Hello!, I'm Gaurav Dhanraja</h1>
 
-- 🌱 I’m currently learning BTech in AIML
-- 📫 How to reach me **gauravdhanraja88@proton.me**
+- 🌱 Currently studying BTech in Artificial Intelligence and Machine Learning
 
 
 <h4 align="left">Languages</h4>
@@ -42,14 +41,7 @@
 
 ###
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravDhanraja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GauravDhanraja&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
+<h4 align="left">Handles</h4>
 
 <div align="left">
   <a href="https://www.instagram.com/gaurav.dhanraja/" target="_blank">
