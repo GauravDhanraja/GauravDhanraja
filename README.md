@@ -30,6 +30,12 @@
 
 ###
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GauravDhanraja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=GauravDhanraja&theme=dark&hide_border=false)<br/>
+
+###
+
 <p align="left">Linux btw</p>
 
 <div align="left">
