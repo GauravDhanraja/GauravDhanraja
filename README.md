@@ -3,7 +3,7 @@
 - 🌱 Currently studying BTech in Artificial Intelligence and Machine Learning
 
 
-<h4 align="left">Languages</h4>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">🛠 Framewroks, Libraries, Tools</h4>
+<h2 align="left">🛠 Framewroks, Libraries, Tools</h2>
 
 ###
 
@@ -29,12 +29,12 @@
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GauravDhanraja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=GauravDhanraja&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=GauravDhanraja&theme=light&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=GauravDhanraja&theme=light&hide_border=false)<br/>
 
 ###
 
-<h4 align="left">Handles</h4>
+<h2 align="left">Get in touch</h2>
 
 <div align="left">
   <a href="https://www.instagram.com/gaurav.dhanraja/" target="_blank">
