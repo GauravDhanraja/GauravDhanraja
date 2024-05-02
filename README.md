@@ -42,10 +42,8 @@
 
 ###
 
-<div align="center">
-  ![Gaurav Dhanraja's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravDhanraja&theme=default&show_icons=true
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=GauravDhanraja&theme=default)](https://git.io/streak-stats)
-</div>
+  [![GauravDhanraja's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravDhanraja&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravDhanraja)](https://git.io/streak-stats)
 
 ###
 
