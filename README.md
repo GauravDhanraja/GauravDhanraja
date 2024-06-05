@@ -1,14 +1,4 @@
-###
-
 <h1 align="center">Hello!, I'm Gaurav Dhanraja</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I'm working towards becoming an ML developer.<br>- 📚 I'm currently studying for a BTech in Artificial Intelligence and Machine Learning.</p>
 
 ###
 
@@ -22,6 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
@@ -38,12 +30,14 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-  [![GauravDhanraja's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravDhanraja&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravDhanraja)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravDhanraja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=GauravDhanraja&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
